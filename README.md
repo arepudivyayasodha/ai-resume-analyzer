@@ -35,7 +35,7 @@ An intelligent resume screening system that evaluates how well a resume matches 
 ![Analysis](analysis.png)
 
 ### 🤖 ATS Score & Suggestions
-![Results](results.png)
+![Results](result1.png)
 
 ---
 
