@@ -1,2 +1,21 @@
-# ai-resume-analyzer
-AI-powered resume analyzer that evaluates resume-job match using NLP (TF-IDF &amp; cosine similarity), with section-wise analysis, ATS scoring, and actionable suggestions.
+# AI Resume Analyzer
+
+An intelligent resume screening system that evaluates how well a resume matches a job description using NLP techniques.
+
+## Features
+- Resume PDF parsing
+- TF-IDF and cosine similarity matching
+- Section-wise analysis
+- ATS compatibility score
+- Missing keyword detection
+- Actionable suggestions
+
+## Tech Stack
+- Python
+- Streamlit
+- Scikit-learn
+- NLTK
+
+## How to Run
+pip install -r requirements.txt  
+streamlit run app.py
